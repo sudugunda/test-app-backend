@@ -1,0 +1,19 @@
+{
+  "name": "test-backend",
+  "version": "1.0.0",
+  "description": "simple backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Simple server project",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "sudu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1",
+    "uuid": "^8.3.2"
+  }
+}
